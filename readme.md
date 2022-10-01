@@ -1,1 +1,2 @@
-ECHO is on.
+for i in 'hello':
+  print('hello')
